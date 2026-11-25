@@ -1,0 +1,13 @@
+Part_Number,Part_Name,Material,Quantity,Manufacturing_Process,Key_Dimensions_and_Specs,Supplier_Source
+W-01,Curved L-Type Rotary Weeding Blades,High-Carbon Steel En45,6,Shearing / Hot Forging / Oil Quench,Thickness 4.0 mm / Sweep Dia 220 mm / 42-45 HRC,Forge Shop
+W-02,Main Rotor Drive Shaft,Cold Drawn Steel En8,1,Lathe Turning / Milling Keyway & Flats,Dia 25 mm x 320 mm length,Machine Shop
+W-03,Blade Mounting Rotor Hub Flanges,Carbon Steel C45,2,Turning / 6-Hole PCD CNC Drilling,OD 90 mm x 15 mm thickness,Machine Shop
+W-04,Chassis Structural Angle Frame,Mild Steel Angle,1,Cold Sawing / Arc Welding,35x35x3 mm structural angle,Workshop Stock
+W-05,Protective Mudguard Cover,CRCA Sheet Metal,1,CNC Plasma Cutting / Press Brake Bending,1.6 mm sheet / 280 mm width,Sheet Metal Shop
+W-06,Engine Drive Small Pulley,Cast Iron Grade FG 200,1,Turning / V-Groove Machining,PCD 60 mm (Single B-Groove / Bore 19 mm),Standard Component
+W-07,Driven Large Rotor Pulley,Cast Iron Grade FG 200,1,Turning / Dynamic Balancing,PCD 250 mm (Single B-Groove / Bore 25 mm),Standard Component
+W-08,Industrial V-Belt,Synthetic Neoprene Rubber,1,Molding,B-Section Industrial V-Belt (B-48),Hardware Stock
+W-09,Pillow Block Ball Bearings,Cast Iron Housing / Chrome Steel,2,Standard Bolt Mounting,UCP 205 (Dia 25 mm bore with grease nipple),Off-the-shelf
+W-10,Handlebars & Bracing Structure,Mild Steel Hollow Pipe,1,Tube Bending / Fillet Welding,Dia 25.4 mm (1 inch OD) x 1150 mm,Workshop Stock
+W-11,Adjustable Rear Depth Control Skid,Mild Steel Flat Bar,1,Bending / Slotted Milling,40x5 mm flat bar x 300 mm,Workshop Stock
+W-12,High Tensile Fastener Hardware Kit,High Tensile Steel Grade 8.8,1 Set,Threading & Heat Treatment,M8 & M10 Hex Head Bolts with Nyloc Nuts,Hardware Stock
